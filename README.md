@@ -27,6 +27,14 @@ git clone https://github.com/twoj-login/moj-projekt.git
 
 cd moj-projekt
 
+\### Uzycie
+
+MIT
+
+start index.html
+
+
+\#### Licencja
 
 
 
