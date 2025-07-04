@@ -23,20 +23,20 @@ Opis: To jest przykładowy projekt do nauki Gita i GitHuba.
 
 ```bash
 
-git clone https://github.com/twoj-login/moj-projekt.git
+git clone https://github.com/janb12322/moj-projekt.git
 
 cd moj-projekt
 
 \### Uzycie
 
-MIT
+
 
 start index.html
 
 
 \#### Licencja
 
-
+MIT
 
 
 
